@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Mikołaj 👋
 
-<!--
-**mikjec/mikjec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in fullstack web development.
 
-Here are some ideas to get you started:
+I enjoy building web applications using modern technologies such as React, Next.js and Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Frontend
+- HTML
+- CSS / TailwindCSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+
+Backend
+- PHP
+- Laravel
+- REST API
+- tRPC
+
+Databases
+- PostgreSQL
+- MySQL
+- Prisma
+- Eloquent ORM
+
+Tools
+- Git
+- Linux
+- Bash
+
+## Projects
+
+### TimeTracker
+Employee work hours management system built with Next.js, TypeScript, PostgreSQL, Prisma and Supabase.
+
+### FiszIt
+Flashcard learning application built with Laravel and MySQL.
+
+### Greenergy
+Simple responsive business website.
+
+## Currently learning
+
+- Advanced Next.js
+- Backend architecture
+- Building scalable fullstack apps
