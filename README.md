@@ -1,8 +1,6 @@
-# Hi, I'm Mikołaj 👋
+# Hi, I'm Mikołaj
 
 Computer Science student interested in fullstack web development.
-
-I enjoy building web applications using modern technologies such as React, Next.js and Laravel.
 
 ## Tech Stack
 
